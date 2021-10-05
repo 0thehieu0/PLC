@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=U_RS232 Member=Component C2 104
+Added Room: Name=U_D_Input
+Added Room: Name=U_D_Output
+Added Room: Name=U_Power
+Added Room: Name=U_PWM_Output
